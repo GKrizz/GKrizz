@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center"> Hi there 👋 , I'm Gobala Krishnan </h1>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
