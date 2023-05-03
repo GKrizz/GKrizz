@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gobalakrishnan21cb17/gobalakrishnan21cb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> I'm Gobala Krishnan </h1>
+<h1 align="center"> ### Hi there 👋 , I'm Gobala Krishnan </h1>
