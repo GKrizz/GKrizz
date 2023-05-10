@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gobalakrishnan21cb17&row=2&column=3" alt="gobalakrishnan21cb17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobalakrishnan21cb17" alt="gobalakrishnan21cb17" /></a> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Django and Python Programming**
