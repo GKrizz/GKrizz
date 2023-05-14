@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gobalakrishnan21cb17&show_icons=true&locale=en" alt="gobalakrishnan21cb17" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjeevidev&theme=dark)](https://git.io/streak-stats)" alt="gobalakrishnan21cb17" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gobalakrishnan21cb17&theme=dark)](https://git.io/streak-stats)" alt="gobalakrishnan21cb17" /></p>
 
