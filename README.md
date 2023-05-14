@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobalakrishnan21cb17&show_icons=true&locale=en&layout=compact" alt="gobalakrishnan21cb17" /></p>
 
-<p>&nbsp;<img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=sanjeevidev&theme=dark)](https://git.io/streak-stats)" alt="gobalakrishnan21cb17" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gobalakrishnan21cb17&show_icons=true&locale=en" alt="gobalakrishnan21cb17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobalakrishnan21cb17&" alt="gobalakrishnan21cb17" /></p>
 
