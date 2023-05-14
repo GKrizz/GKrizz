@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gobalakrishnan21cb17&label=Profile%20views&color=0e75b6&style=flat" alt="gobalakrishnan21cb17" /> </p>
 
 
