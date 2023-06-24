@@ -1,24 +1,10 @@
-<!--
-**gobalakrishnan21cb17/gobalakrishnan21cb17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi 👋, I'm Gobala Krishnan</h1>
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gobalakrishnan21cb17" alt="gobalakrishnan21cb17" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GKrizz" alt="GKrizz" /></a> </p>
 
 
 
@@ -39,9 +25,9 @@ Here are some ideas to get you started:
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gobalakrishnan21cb17&show_icons=true&locale=en&layout=compact" alt="gobalakrishnan21cb17" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GKrizz&show_icons=true&locale=en&layout=compact" alt="GKrizz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gobalakrishnan21cb17&show_icons=true&locale=en" alt="gobalakrishnan21cb17" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GKrizz&show_icons=true&locale=en" alt="GKrizz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gobalakrishnan21cb17&show_icons=true&locale=en" alt="gobalakrishnan21cb17" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GKrizz&show_icons=true&locale=en" alt="GKrizz" /></p>
 
