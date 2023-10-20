@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GKrizz&show_icons=true&locale=en" alt="GKrizz" /></p>
 
+[![An image of @gkrizz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gkrizz)](https://holopin.io/@gkrizz)
+
