@@ -3,6 +3,8 @@
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&color=13F7B0&background=07050100&random=false&width=435&lines=+I'm+a+Full+Stack+Developer+.+.+.;I'm+a+Python+Developer+.+.+.)](https://git.io/typing-svg)
+
    <img align="left" src="https://media.giphy.com/media/cFlrCthixcb3B6hqwY/giphy.gif"  width="200"/>
    <img align="right" alt="Coding" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
    
