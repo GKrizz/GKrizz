@@ -23,7 +23,7 @@
 
 <p align="left">
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gobala-krishnan-5ab1a4231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gobala-krishnan-5ab1a4231" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gobala-krishnan-5ab1a4231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gobala-krishnan-5ab1a4231" height="30" width="40" /></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gobala_krishnan/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kbaskarankbaskaran72@gmail.com)
