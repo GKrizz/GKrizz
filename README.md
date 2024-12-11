@@ -1,7 +1,9 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GKrizz&label=Profile%20views&color=0e75b6&style=flat" alt="GKrizz" /> </p>
 
 <h1 align="center">Hi 👋, I'm Gobala Krishnan</h1>
 
 <h3 align="center">A passionate Full Stack developer from India</h3>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=1000&color=13F7B0&background=07050100&random=false&width=435&lines=+I'm+a+Full+Stack+Developer+.+.+.;I'm+a+Python+Developer+.+.+.)](https://git.io/typing-svg)
 
@@ -17,7 +19,7 @@
 
 - 💬 Ask me about **Django and Python Programming**
 
-- 📫 How to reach me **kbaskarankbaskaran72@gmail.com**
+- 📫 How to reach me **gobalakrishnan.b2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
